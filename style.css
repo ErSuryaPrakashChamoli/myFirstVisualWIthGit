@@ -1,0 +1,42 @@
+table ,th,td 
+{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 14px;
+
+
+}
+
+th{
+
+    text-align: left;
+}
+
+table
+{
+    border-spacing: 150px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444444;
+}
+li{
+    float: left;
+}
+
+li a{
+
+    display: block;
+    color: white;
+}
+
+
+
+
+
